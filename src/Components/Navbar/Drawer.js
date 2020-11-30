@@ -23,6 +23,10 @@ const useStyles = makeStyles({
     width: 'auto',
   },
   toolbar: theme.mixins.toolbar,
+  Link: {
+    textDecoration: 'none', 
+    color: 'black'
+  }
 });
 
 export default function TemporaryDrawer() {
@@ -60,7 +64,7 @@ export default function TemporaryDrawer() {
                         <HomeIcon/>
                     </ListItemIcon>
                     <ListItemText>
-                        <Link to="#">
+                        <Link to="/" className={classes.Link}>
                         Home
                         </Link>
                     </ListItemText>                  
