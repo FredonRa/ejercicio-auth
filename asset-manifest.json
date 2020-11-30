@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ejercicio-auth/static/css/main.71e415e0.chunk.css",
+    "main.js": "/ejercicio-auth/static/js/main.85119ad6.chunk.js",
+    "main.js.map": "/ejercicio-auth/static/js/main.85119ad6.chunk.js.map",
+    "runtime~main.js": "/ejercicio-auth/static/js/runtime~main.53b26e27.js",
+    "runtime~main.js.map": "/ejercicio-auth/static/js/runtime~main.53b26e27.js.map",
+    "static/js/2.832030c8.chunk.js": "/ejercicio-auth/static/js/2.832030c8.chunk.js",
+    "static/js/2.832030c8.chunk.js.map": "/ejercicio-auth/static/js/2.832030c8.chunk.js.map",
+    "index.html": "/ejercicio-auth/index.html",
+    "precache-manifest.e4fa1bc9b7af77b66505e5dda1c5d89b.js": "/ejercicio-auth/precache-manifest.e4fa1bc9b7af77b66505e5dda1c5d89b.js",
+    "service-worker.js": "/ejercicio-auth/service-worker.js",
+    "static/css/main.71e415e0.chunk.css.map": "/ejercicio-auth/static/css/main.71e415e0.chunk.css.map"
+  }
+}
